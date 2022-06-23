@@ -12,6 +12,10 @@
 
 > Finally, run ```python3 downloadvid.py``` then follow the prompts in the terminal
 
+## This program also includes a way to download the videos as an MP3 file, to use do ```python3 sounddownload.py``` and follow the prompts
+
+### Disclaimer, this program will hopefully be on my website (https://www.thespaceace.space) in the near future
+
 ## The videos will be located in the project folder
 
 
