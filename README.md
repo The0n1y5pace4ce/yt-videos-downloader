@@ -2,7 +2,7 @@
 
 # A Simple Youtube Video Downloader Written in Python
 
-### SETUP
+### SETUP (REQUIRES AT LEAST PYTHON 3.10)
 > First in the terminal do
 > ```
 > git clone https://github.com/The0n1y5pace4ce/yt-videos-downloader.git
